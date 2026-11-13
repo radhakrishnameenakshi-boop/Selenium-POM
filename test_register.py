@@ -1,13 +1,3 @@
-# from HomePage import *
-# from RegisterPage import *
-#
-# def test_register(sam):
-#     obj3 = HomePage(sam)
-#     obj3.register()
-#
-#     obj4 = RegisterPage(sam)
-#     obj4.register()
-
 from HomePage import *
 from RegisterPage import *
 import pytest
